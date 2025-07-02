@@ -1,5 +1,5 @@
 <h1>Hello </h1>
-<h2>Welcome to Management Accounting 2</h2>
+<h2>Welcome to Management Accounting </h2>
 <h3>Ask your questions</h3>
 
 <script
